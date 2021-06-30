@@ -1,5 +1,3 @@
-<!doctype html>
-<html lang="en">
 <?php
 
 $random = rand(50000, 100000000000);
